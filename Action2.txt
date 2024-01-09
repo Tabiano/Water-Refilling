@@ -1,0 +1,73 @@
+Imports System.Data
+Imports System.Data.SqlClient
+
+Public Class Form1
+    Dim connectionString As String = "Data Source=YourServerName;Initial Catalog=YourDatabase;User ID=YourUsername;Password=YourPassword"
+    Dim connection As New SqlConnection(connectionString)
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        ' Populate the ComboBox with "Edit" and "Delete" items
+        actionComboBox.Items.Add("Edit")
+        actionComboBox.Items.Add("Delete")
+
+        ' Bind the DataGridView to a data source
+        LoadData()
+    End Sub
+
+    Private Sub LoadData()
+        ' You should replace this query and table name with your actual database and table
+        Dim query As String = "SELECT * FROM YourTable"
+
+        Dim adapter As New SqlDataAdapter(query, connection)
+        Dim dt As New DataTable()
+        adapter.Fill(dt)
+
+        ' Bind the DataGridView to the DataTable
+        dataGridView1.DataSource = dt
+
+        ' Add a ComboBox column for the "Edit" and "Delete" actions
+        Dim actionComboBoxColumn As New DataGridViewComboBoxColumn()
+        actionComboBoxColumn.Name = "Action"
+        actionComboBoxColumn.Items.Add("Edit")
+        actionComboBoxColumn.Items.Add("Delete")
+        dataGridView1.Columns.Add(actionComboBoxColumn)
+    End Sub
+
+    Private Sub dataGridView1_CellClick(sender As Object, e As DataGridViewCellEventArgs) Handles dataGridView1.CellClick
+        If e.ColumnIndex = dataGridView1.Columns("Action").Index AndAlso e.RowIndex >= 0 Then
+            Dim selectedAction As String = actionComboBox.Text
+            Dim selectedRow As DataGridViewRow = dataGridView1.Rows(e.RowIndex)
+
+            If selectedAction = "Edit" Then
+                ' Implement your edit logic here, e.g., open an edit form
+                Dim editForm As New EditForm()
+                editForm.ShowDialog()
+            ElseIf selectedAction = "Delete" Then
+                ' Implement your delete logic here, e.g., confirm and delete the selected record
+                Dim result As DialogResult = MessageBox.Show("Are you sure you want to delete this record?", "Confirm Delete", MessageBoxButtons.YesNo)
+                If result = DialogResult.Yes Then
+                    ' Perform the delete operation in the database
+                    Dim selectedRecordID As Integer = CInt(selectedRow.Cells("ID").Value) ' Replace "ID" with your actual primary key column name
+                    DeleteRecord(selectedRecordID)
+                    LoadData() ' Refresh the DataGridView
+                End If
+            End If
+        End If
+    End Sub
+
+    Private Sub DeleteRecord(recordID As Integer)
+        ' Implement the code to delete the record in your database
+        Dim deleteQuery As String = "DELETE FROM YourTable WHERE ID = @RecordID"
+        Dim deleteCommand As New SqlCommand(deleteQuery, connection)
+        deleteCommand.Parameters.AddWithValue("@RecordID", recordID)
+
+        Try
+            connection.Open()
+            deleteCommand.ExecuteNonQuery()
+        Catch ex As Exception
+            MessageBox.Show("Error deleting record: " & ex.Message)
+        Finally
+            connection.Close()
+        End Try
+    End Sub
+End Class

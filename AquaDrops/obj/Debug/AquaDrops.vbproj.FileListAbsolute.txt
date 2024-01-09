@@ -1,0 +1,88 @@
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\bin\Debug\AquaDrops.pdb
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\bin\Debug\AquaDrops.xml
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Resources.resources
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.vbproj.GenerateResource.Cache
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.exe
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.xml
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.pdb
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Login.resources
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Main.resources
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Sale.resources
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.CreateNewSale.resources
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.cnjartype.resources
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.JandTP.resources
+C:\Users\admin\OneDrive\Desktop\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe.config
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe.config
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.exe
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.xml
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.pdb
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\bin\Debug\AquaDrops.pdb
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\bin\Debug\AquaDrops.xml
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.cnjartype.resources
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.CreateNewSale.resources
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.JandTP.resources
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Login.resources
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Main.resources
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Resources.resources
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Sale.resources
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.vbproj.GenerateResource.Cache
+C:\Users\CDSGA\Desktop\AquaDrops\AquaDrops\obj\Debug\AquaDrops.newaddingdata.resources
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe.config
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.exe
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.xml
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.pdb
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\bin\Debug\AquaDrops.pdb
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\bin\Debug\AquaDrops.xml
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.cnjartype.resources
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.CreateNewSale.resources
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.JandTP.resources
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Login.resources
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Main.resources
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Resources.resources
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.vbproj.GenerateResource.Cache
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.ctotal.resources
+C:\Users\admin\OneDrive\Desktop\CDSGA\3rd Year\SAD\WATER_SYSTEM\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Sale.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe.config
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.exe
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.xml
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.pdb
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\bin\Debug\AquaDrops.pdb
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\bin\Debug\AquaDrops.xml
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Sale.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.cnjartype.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.CreateNewSale.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.JandTP.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Login.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Main.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Resources.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.ctotal.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.vbproj.GenerateResource.Cache
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.printsalesreport.resources
+C:\Users\avena\Documents\codes\AquaDrops\AquaDrops\obj\Debug\AquaDrops.salesreport.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe.config
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.exe
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.xml
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\bin\Debug\AquaDrops.exe
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\bin\Debug\AquaDrops.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\bin\Debug\AquaDrops.xml
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.printsalesreport.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.salesreport.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Sale.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.cnjartype.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.CreateNewSale.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.JandTP.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Login.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Main.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.ctotal.resources
+C:\Users\admin\Documents\Visual Studio 2008\Project\AquaDrops\AquaDrops\obj\Debug\AquaDrops.vbproj.GenerateResource.Cache

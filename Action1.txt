@@ -1,0 +1,42 @@
+Imports System.Data.SqlClient
+
+Public Class Form1
+
+    ' Database connection
+    Dim con As New SqlConnection("Data Source=Your_Server;Initial Catalog=Your_Database;Integrated Security=True")
+
+    ' Add ComboBox Column to DataGridView
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        ' Your code to load data into the DataGridView
+
+        ' Create a DataGridViewComboBoxColumn
+        Dim actionColumn As New DataGridViewComboBoxColumn()
+        actionColumn.Name = "Action"
+        actionColumn.HeaderText = "Action"
+        actionColumn.DataSource = {"Edit", "Delete"}
+        actionColumn.DisplayMember = "Edit"
+        actionColumn.ValueMember = "Delete"
+
+        ' Add the ComboBox column to the DataGridView
+        DataGridView1.Columns.Add(actionColumn)
+
+        ' Add a handler for the SelectedIndexChanged event
+        AddHandler actionColumn.DataGridView.CellValueChanged, AddressOf actionColumn_CellValueChanged
+    End Sub
+
+    ' Function to handle Edit and Delete operations
+    Private Sub actionColumn_CellValueChanged(ByVal sender As Object, ByVal e As DataGridViewCellEventArgs)
+        If e.ColumnIndex = DataGridView1.Columns("Action").Index Then
+            Dim selectedAction As String = CStr(DataGridView1.Rows(e.RowIndex).Cells("Action").Value)
+
+            If selectedAction = "Edit" Then
+                ' Code to edit the selected record
+                MessageBox.Show("Edit Record")
+            ElseIf selectedAction = "Delete" Then
+                ' Code to delete the selected record
+                MessageBox.Show("Delete Record")
+            End If
+        End If
+    End Sub
+
+End Class
